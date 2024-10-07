@@ -12,13 +12,13 @@
 
 入门岛L0
 
-- 第1关：Linux 基础知识 [L0.1_Linux](./L0/L0.1_Linux/L0.1_Linux.md)
-- 第2关：Python 基础知识基础知识 [L0.1_Python](./L0/L0.2_Python/L0.2_Python.md)
-- 第3关：Git 基础知识 [L0.1_Git](./L0/L0.3_Git/L0.3_Git.md)
+- 第1关： [Linux 基础知识](./L0/L0.1_Linux/L0.1_Linux.md)
+- 第2关： [Python 基础知识](./L0/L0.2_Python/L0.2_Python.md)
+- 第3关： [Git 基础知识](./L0/L0.3_Git/L0.3_Git.md)
 
 基础岛L1
 
-
+- 第1关：[书生大模型全链路开源体系](./L1/L1.1_HelloIntern/L1.1_HelloIntern.md)
 
 进阶岛L2
 
