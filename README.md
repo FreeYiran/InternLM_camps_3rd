@@ -19,6 +19,7 @@
 基础岛L1
 
 - 第1关：[书生大模型全链路开源体系](./L1/L1.1_HelloIntern/L1.1_HelloIntern.md)
+- 第2关：[8G 显存玩转书生大模型 Demo](./L1/L1.2_Demo/L1.2_Demo.md)
 
 进阶岛L2
 
